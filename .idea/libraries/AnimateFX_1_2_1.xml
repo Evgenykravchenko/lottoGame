@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AnimateFX-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../weatherApp/AnimateFX-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../weatherApp/jnotify.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

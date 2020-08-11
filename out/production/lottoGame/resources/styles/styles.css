@@ -1,0 +1,56 @@
+
+.menuBackground, .settingsBackground, .gameBackground {
+    -fx-background-color: #FFE4C4;
+}
+
+.top {
+    -fx-background-color: #FFDEAD;
+}
+
+.topLine {
+    -fx-background-color: #C99755;
+}
+
+.singleGameBtn, .settingsBtn, .exitBtn {
+    -fx-background-color: #FFDEAD;
+}
+
+.singleGameBtn:hover, .settingsBtn:hover, .exitBtn:hover, .backBtn:hover, .onOffMusicBtn:hover, .lowVolumeBtn:hover, .highVolumeBtn:hover {
+    -fx-scale-x: 103%;
+    -fx-scale-y: 103%;
+}
+
+.singleGameBtn:pressed, .settingsBtn:pressed, .exitBtn:pressed, .backBtn:pressed, .onOffMusicBtn:pressed, .lowVolumeBtn:pressed, .highVolumeBtn:pressed {
+    -fx-scale-x: 97%;
+    -fx-scale-y: 97%;
+}
+
+.backBtn {
+    -fx-background-color: transparent;
+    -fx-background-image: url("../images/backBtnImg.png");
+}
+
+.lowVolumeBtn {
+    -fx-background-color: transparent;
+    -fx-background-image: url("../images/lowVolume.png");
+}
+
+.highVolumeBtn {
+    -fx-background-color: transparent;
+    -fx-background-image: url("../images/highVolume.png");
+}
+
+.onOffMusicBtn {
+    -fx-background-color: transparent;
+    -fx-background-image: url("../images/musicOn.png");
+}
+
+.lottoCard {
+    -fx-background-color: black;
+}
+
+.cardImg {
+    -fx-background-image: url("../images/cardBackground.jpg");
+}
+
+
